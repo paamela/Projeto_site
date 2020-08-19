@@ -1,0 +1,11 @@
+Inicio 
+Sobre >>>Texto de apresentação,
+Doações >>> direcionar para o pagseguro
+Contato>>>
+
+Rodapé >>> Parceiros 
+
+Formulario 
+Nome: 
+E-mail:
+Telefone: 
